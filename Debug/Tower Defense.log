@@ -1,0 +1,58 @@
+﻿  Source.cpp
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(114,17): warning C4305: инициализация: усечение из "double" в "float"
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(59,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(60,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(80,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(81,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(98,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(99,37): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(175,18): warning C4305: инициализация: усечение из "double" в "float"
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(143,19): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(144,19): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(148,1): warning C4305: =: усечение из "double" в "float"
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(149,1): warning C4305: =: усечение из "double" в "float"
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(150,1): warning C4305: =: усечение из "double" в "float"
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(151,1): warning C4305: =: усечение из "double" в "float"
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(164,40): warning C4244: return: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(165,39): warning C4244: return: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(194,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(194,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(209,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(297,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(329,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(329,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(352,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Programs\MVS\SFML\Tower Defense\Source.cpp(352,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Tower Defense.vcxproj -> F:\Programs\MVS\SFML\Tower Defense\Debug\Tower Defense.exe
